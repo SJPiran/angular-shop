@@ -1,3 +1,2 @@
-# angular-t5hzbm-n7fpsi
+# angular-shop
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-t5hzbm-n7fpsi)
